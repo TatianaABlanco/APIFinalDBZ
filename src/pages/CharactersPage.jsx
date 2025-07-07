@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import useDragonBallAPI from '../hooks/useDragonBallAPI';
-import Characters from '../components/characters';
-import Pagination from '../components/pagination';
+import Characters from '../components/Characters';
+import Pagination from '../components/Pagination';
 import '../styles/characterspage.css';
 
 
